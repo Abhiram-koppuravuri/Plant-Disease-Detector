@@ -1,5 +1,5 @@
 
-# Crop Disease Detector
+# Plant Disease Detector
 
 This Plant Disease Detector app uses "microsoft/swinv2-tiny-patch4-window8-256" which is a pre-trained image classification model from Hugging Face, that was then finetuned on combined dataset of "New Plant Diseases" and "Tea_Leaf_Disease" from kaggle.
 
