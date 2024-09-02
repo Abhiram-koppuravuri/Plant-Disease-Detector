@@ -1,0 +1,4 @@
+Model is deployed on hugging face, which can accessed below.(While running the streamlit app, model would be automatically downloaded)
+
+Model link: https://huggingface.co/Abhiram4/PlantDiseaseDetectorSwinv2
+
