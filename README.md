@@ -33,9 +33,15 @@ If any package is missing in host system, you can install the missing one indivi
 ```pip install package-name```
 
 
-
 ## 2. Run the Streamlit App
 To start the Streamlit app on your local host, run the following command in the terminal:
 
 ```streamlit run app.py```
+
+# Demonstration
+
+
+
+https://github.com/user-attachments/assets/e623602c-0c7f-417f-a48b-d8cccf21d98d
+
 
